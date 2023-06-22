@@ -8,8 +8,7 @@
 <p align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> &mdash;
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> &mdash;
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
-</p>
+
 
 <!--
 **alix1383/Alix1383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
