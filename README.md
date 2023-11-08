@@ -1,11 +1,15 @@
+## Proficient in:
 
-<!--
-<p align="center">
-    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/653de8b2602c6661a572a373?variant=dark" alt="roadmap.sh"/></a>
-</p>
-<hr>
+- 🖥️ **Front-End:** JavaScript, HTML, CSS
+- 💻 **Front-End Skills:** Tailwind, Sass, Htmx
+- 🌐 **Back-End:** Node.js, PHP
+- 💾 **Databases:** MySQL, MongoDB, SQLite
+- 🔍 **Low-Level Skills:** Vue.js, C++, Laravel
+<!-- 
+- 🛠️ **Dockerization:** Docker, Kubernetes
+- 🌟 **Other Skills:** Photoshop, Swift, React Native
 -->
-
+</hr>
 
 <p align="center" >
     <img width="48" src="https://github.githubassets.com/images/mona-loading-default.gif">
