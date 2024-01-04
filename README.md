@@ -5,7 +5,6 @@
 - 🌐 **Back-End:** PHP
 - 💾 **Databases:** MySQL, MongoDB
 - 🔍 **Low-Level Skills:** Vue.js, Laravel
-- 
 <!-- 
 - 🛠️ **Dockerization:** Docker, Kubernetes
 - 🌟 **Other Skills:** Photoshop, Swift, React Native
