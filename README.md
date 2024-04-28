@@ -5,6 +5,8 @@
 - 🌐 **Back-End:** PHP
 - 💾 **Databases:** MySQL, MongoDB
 - 🔍 **Low-Level Skills:** Vue.js, Laravel
+
+![](https://komarev.com/ghpvc/?username=alix1383&color=green)
 <!-- 
 - 🛠️ **Dockerization:** Docker, Kubernetes
 - 🌟 **Other Skills:** Photoshop, Swift, React Native
