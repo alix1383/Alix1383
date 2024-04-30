@@ -1,10 +1,9 @@
 ## Proficient in:
 
-- 🖥️ **Front-End:** JavaScript, HTML, CSS
-- 💻 **Front-End Skills:** Tailwind
-- 🌐 **Back-End:** PHP
-- 💾 **Databases:** MySQL, MongoDB
-- 🔍 **Low-Level Skills:** Vue.js, Laravel
+- 🖥️ **Front-End:** JavaScript, TypeScript, HTML, CSS, Tailwind, Vue.js, Nuxt.Js
+- 🌐 **Back-End:** PHP, Laravel
+- 💾 **Databases:** MySQL, MongoDB, Redis
+- 🔍 **Low-Level Skills:** Rust
 
 ![](https://komarev.com/ghpvc/?username=alix1383&color=green)
 <!-- 
