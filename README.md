@@ -7,6 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alix1383&color=green)
 <!-- 
+
 - 🛠️ **Dockerization:** Docker, Kubernetes
 - 🌟 **Other Skills:** Photoshop, Swift, React Native
 
