@@ -3,7 +3,7 @@
 - 🖥️ **Front-End:** JavaScript, TypeScript, HTML, CSS, Tailwind, Vue.js, Nuxt.Js
 - 🌐 **Back-End:** PHP, Laravel
 - 💾 **Databases:** MySQL, Redis
-- 🔍 **Low-Level Skills:** Rust, C++
+- 🔍 **Low-Level Skills:** Rust, C
 
 ![](https://komarev.com/ghpvc/?username=alix1383&color=green)
 <!-- 
