@@ -1,6 +1,6 @@
 ## Proficient in:
 
-- 🖥️ **Front-End:** JavaScript, TypeScript, HTML, CSS, Tailwind, Vue.js, Nuxt.Js
+- 🖥️ **Front-End:** Tailwind, Nuxt.Js
 - 🌐 **Back-End:** PHP, Laravel
 - 💾 **Databases:** MySQL, Redis
 - 🔍 **Low-Level Skills:** Rust, C
