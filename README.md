@@ -5,6 +5,8 @@
 - 💾 **Databases:** MySQL, Redis
 - 🔍 **Low-Level Skills:** Rust, C
 
+[![roadmap.sh](https://roadmap.sh/card/wide/653de8b2602c6661a572a373?variant=dark)](https://roadmap.sh)
+
 ![](https://komarev.com/ghpvc/?username=alix1383&color=green)
 <!-- 
 
